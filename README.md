@@ -1,40 +1,110 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay43215&label=Profile%20views&color=0e75b6&style=flat" alt="akshay43215" /> </p>
+# 👋 Welcome to My Profile
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay43215" alt="akshay43215" /></a> </p>
+### Full-Stack Developer | API Architect | UI/UX Enthusiast
+**Crafting reliable APIs and intuitive user interfaces**
 
-- 🔭 I’m currently working on [Scalable utility and feature modules](https://akshay43215.github.io/utility_apps/)
+[![Profile Views](https://komarev.com/ghpvc/?username=akshay43215&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/akshay43215)
+[![GitHub followers](https://img.shields.io/github/followers/akshay43215?label=Followers&style=flat-square&color=0e75b6)](https://github.com/akshay43215)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/akshay-krishna10)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:akshaykrishna24996@gmail.com)
 
-- 🌱 I’m currently learning **Web Developemt And CI/CD**
+---
 
-- 👯 I’m looking to collaborate on [WebRTC project on peer connections establishments](https://akshay43215.github.io/utility_apps/webCall.v0.html)
+### 🏆 GitHub Achievements
 
-- 👨‍💻 All of my projects are available at [https://akshay43215.github.io/portfolio-2025/](https://akshay43215.github.io/portfolio-2025/)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshay43215&theme=dark&row=1&column=6" alt="GitHub Trophies" />
+</a>
 
-- 💬 Ask me about **React, Angular, Api's and SQL**
+</div>
 
-- 📫 How to reach me **akshaykrishna24996@gmail.com**
+---
 
-- 📄 Know about my experiences [https://akshay43215.github.io/portfolio-2025/#connect](https://akshay43215.github.io/portfolio-2025/#connect)
+## 🚀 About Me
 
-- ⚡ Fun fact **I prefer structure over shortcuts.**
+I'm a passionate **Full-Stack Developer** from India, dedicated to building scalable, efficient solutions that combine clean backend architecture with stunning user interfaces. I believe in writing code that's not just functional, but maintainable and elegant.
 
-### Blogs posts
+### What I'm Currently Doing
+
+- 🔭 **Building:** Scalable utility and feature modules - [Check out my projects](https://akshay43215.github.io/utility_apps/)
+- 🌱 **Learning:** Advanced Web Development patterns and CI/CD pipelines
+- 👯 **Collaborating:** WebRTC peer connection projects - [WebCall v0.0](https://akshay43215.github.io/utility_apps/webCall.v0.html)
+- 💬 **Expertise:** React, Angular, RESTful APIs, Database Design & Optimization
+- ⚡ **Philosophy:** I prefer **structure over shortcuts** - clean code is a craft
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=akshay43215&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay43215&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay43215&show_icons=true&theme=dark&layout=compact&hide=html,css" alt="Top Languages" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)
+![CI/CD](https://img.shields.io/badge/CI/CD-Learning-blue?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+
+---
+
+## 💼 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| [Portfolio 2025](https://akshay43215.github.io/portfolio-2025/) | Personal portfolio showcasing all projects | React, TypeScript |
+| [Utility Apps](https://akshay43215.github.io/utility_apps/) | Collection of scalable utility modules | JavaScript, Angular |
+| [WebCall v0.0](https://akshay43215.github.io/utility_apps/webCall.v0.html) | WebRTC peer connection implementation | WebRTC, Vanilla JS |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-krishna10)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykrishna24996@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://akshay43215.github.io/portfolio-2025/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshay43215)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://utility-apps.pages.dev/update.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://utility-apps.pages.dev/update.html" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshay-krishna10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-krishna10" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay43215&show_icons=true&locale=en&layout=compact" alt="akshay43215" /></p>
+**Made with ❤️ by Akshay Krishna**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay43215&show_icons=true&locale=en" alt="akshay43215" /></p>
+![Contribution Graph](https://github-contribution-graph.vercel.app/api/akshay43215?style=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay43215&" alt="akshay43215" /></p>
+</div>
